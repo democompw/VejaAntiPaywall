@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.2
 // @description  Remove o Paywall no site da VEJA
-// @author       DemoComDC
+// @author       DemoComPW
 // @match        https://veja.abril.com.br/*
 // @grant        GM_registerMenuCommand
 // ==/UserScript==
